@@ -1,4 +1,4 @@
-# Connecting the Dots with AI: B2B Sourcing & Pipeline CRM
+# OutboundAI: Connecting the Dots with AI: B2B Sourcing & Pipeline CRM
 
 An AI-powered intelligence platform built on React 19, Express, and Gemini 3.5, designed to solve complex business sourcing problems. It intelligently crawls public web indexes using **Google Search Grounding**, extracts detailed company/expert profiles, ranks them based on user priorities, and provides integrated Kanban pipeline CRM and personalized automated email outreach copywriting.
 
