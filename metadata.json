@@ -1,0 +1,6 @@
+{
+  "name": "Connecting the Dots with AI",
+  "description": "An AI-powered intelligence platform that searches public web sources to connect businesses with relevant leads, companies, experts, and opportunities, with integrated CRM and automated outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

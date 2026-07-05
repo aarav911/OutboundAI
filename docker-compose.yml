@@ -1,0 +1,20 @@
+services:
+  connecting-the-dots-ai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: connecting-the-dots-ai-app
+    ports:
+      - "3000:3000"
+    environment:
+      # Inject your local secret Gemini API key
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - NODE_ENV=production
+    volumes:
+      # Persistent local database volume mounting
+      - crm-data:/app/data
+    restart: always
+
+volumes:
+  crm-data:
+    driver: local
