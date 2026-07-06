@@ -6,6 +6,7 @@ An AI-powered intelligence platform built on React 19, Express, and Gemini 3.5, 
 # Design report
 [Report document pdf](outboundAI.pdf)
 
+Live deployment: Under development...
 
 ---
 
