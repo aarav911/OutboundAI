@@ -4,6 +4,11 @@ This report outlines the technical blueprint, architectural decisions, security 
 
 ---
 
+## Design report and screenshots: [Report](outboundAI.pdf)
+
+
+---
+
 ## 1. System Architecture
 
 The application is structured as a **Full-Stack Single-Page Application (SPA) with an Express Backend and a React Frontend**. It runs inside a secure, containerized sandbox and binds exclusively to port `3000`.
