@@ -3,6 +3,11 @@
 An AI-powered intelligence platform built on React 19, Express, and Gemini 3.5, designed to solve complex business sourcing problems. It intelligently crawls public web indexes using **Google Search Grounding**, extracts detailed company/expert profiles, ranks them based on user priorities, and provides integrated Kanban pipeline CRM and personalized automated email outreach copywriting.
 
 ---
+# Design report
+[Report document pdf](outboundAI.pdf)
+
+
+---
 
 ## 🚀 Key Architectural Features
 1. **Sourcing Finder with Google Grounding**: Leverages Gemini 3.5-flash with real-time Google Search grounding to retrieve real-world entities, active URLs, and verified industry credentials.

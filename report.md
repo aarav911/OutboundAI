@@ -2,10 +2,6 @@
 
 This report outlines the technical blueprint, architectural decisions, security protocols, data pipelines, and design patterns utilized in the development of the **Connecting the Dots with AI** business intelligence platform.
 
----
-
-## Design report and screenshots: [Report](outboundAI.pdf)
-
 
 ---
 
